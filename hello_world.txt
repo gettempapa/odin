@@ -3,3 +3,6 @@ this is the text of hello world
 fascinating
 
 some more random
+
+vs code random
+and more random
